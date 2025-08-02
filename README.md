@@ -105,12 +105,6 @@ Spillner, A., Linz, T., & Schaefer, H. (2014). Software Testing Foundations (4th
 
 All revised documents compiled into a single zipped folder.
 
-Folder includes Word docs, PHP source files, and MySQL screenshots.
-
-Zipped folder uploaded to Waypoint.
-
-GitHub repository with all documents and code: [Insert GitHub Repo Link Here]
-
 GitHub link provided in Waypoint submission comments.
 
 Note: Part Two (Presentation) will include a PowerPoint slide deck and screen recording walkthrough. That will be handled separately per project instructions
