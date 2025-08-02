@@ -1,9 +1,10 @@
 # CST499-FinalProjectDocs
 Final Software Project Compiled Documents
 
-Student Name: Darrell DouglasCourse: CST-499 Capstone for Computer SoftwareInstructor: Dr. Joseph RangitschDate Submitted: [Insert Submission Date]
+Student Name: Darrell DouglasCourse: CST-499 Capstone for Computer SoftwareInstructor: Dr. Joseph RangitschDate Submitted: 08/2/25
 
 1. Software Requirements Specification (SRS) Document
+
 
 Revised Summary:
 This SRS document outlines the full system requirements for the Employee Portal project. The goal of the portal is to streamline employee registration, login authentication, course selection, and account access. Revisions include clearer functional requirements, separation of system-level constraints, and use of standardized IEEE 830-1998 structure.
@@ -22,6 +23,8 @@ External Interface Requirements
 
 Use Cases
 
+
+
 2. UML Design Model
 
 Revised Summary:
@@ -37,6 +40,8 @@ Activity Diagram
 
 Sequence Diagram
 
+
+
 3. Landing, Login, and Enrollment Pages (HTML + PHP)
 
 Revised Summary:
@@ -49,6 +54,8 @@ Secure user login/logout
 Registration page with form validation
 
 Class enrollment and dynamic course list display
+
+
 
 4. MySQL Database and Class Registration
 
@@ -73,6 +80,8 @@ Drop course
 
 Display user course list
 
+
+
 5. PHP Codebase
 
 Revised Summary:
@@ -90,6 +99,8 @@ drop_course.php
 
 view_courses.php
 
+
+
 6. APA Formatted References Page
 
 Revised Summary:
@@ -100,6 +111,8 @@ Sample Sources Cited:
 Tsui, F., Karam, O., & Bernal, B. (2018). Essentials of software engineering (4th ed.). Jones & Bartlett Learning.
 
 Spillner, A., Linz, T., & Schaefer, H. (2014). Software Testing Foundations (4th ed.). Rocky Nook.
+
+
 
 7. Final Submission Instructions
 
